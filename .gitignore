@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+# Saídas geradas pelo pipeline a cada execução (dados internos, não código)
+relatorio_varredura.csv
+relatorio_visual.html
+evidencias_varredura.pdf
+prints_evidencia/
