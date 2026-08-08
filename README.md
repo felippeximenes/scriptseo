@@ -1,6 +1,6 @@
 # Auditoria de Palavras Restritas em Site (Meta Ads Compliance)
 
-Pipeline em Python que varre um site, encontra palavras que violam políticas de anúncios (ex.: termos relacionados a criptomoedas/web3) e gera evidência visual + um PDF pronto para apresentar à gestão ou usar em recurso de bloqueio de conta de anúncios.
+Pipeline em Python que varre um site, encontra palavras que violam políticas de anúncios (ex.: termos relacionados a criptomoedas/web3) e gera evidência visual + um PDF pronto para apresentar à gestão ou usar em recurso de bloqueio de conta de anúncios!
 
 ## Contexto
 
